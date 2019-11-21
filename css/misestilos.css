@@ -1,0 +1,62 @@
+body {
+	padding: 1em;
+}
+
+.card-head
+
+.col-sm-4 {
+	background: white;
+}
+
+.col-sm-8 {
+	background: blue;
+	border-radius: 2%;
+	padding: 1em;
+}
+
+#fotoperfil {
+	padding: 2em;
+	/*width:70%;*/
+	height: auto;
+	border-radius: 80%;
+	margin: auto;
+	display: block;
+}
+h2 {
+	text-align: center;
+	color: blue;
+	text-shadow: 0.5em 0.5em 0.5em gray;
+}
+h5 {
+	text-align: center;
+}
+
+.cent-text {
+	text-align: center;
+}
+.titulo-card1 {
+	padding: 1em;
+	background: blue;
+	font-weight: bolder;
+	color: white;
+}
+.titulo-card2 {
+	padding: 1em;
+	background: white;
+	font-weight: bolder;
+}
+
+.fondo2{
+	background: blue;
+	color: white;
+}
+
+.mb-0 {
+	font-size: medium;
+}
+
+.piepagina {
+	background: black;
+	color: white;
+	text-align: center;
+}
